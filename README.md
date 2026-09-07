@@ -12,4 +12,4 @@
 
 
 🎬 Beyond code
-I've followed masterclasses in audio editing and live streaming at Quindo — young media makers in Kortrijk. Handy when a race needs a live feed, a commentary mix or a highlight edit afterwards.
+I've followed masterclasses in audio editing and live streaming at Quindo (https://www.quindo.be/) — young media makers in Kortrijk. Handy when a race needs a live feed, a commentary mix or a highlight edit afterwards.
